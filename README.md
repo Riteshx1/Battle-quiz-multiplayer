@@ -28,4 +28,3 @@ npm start
 ```
 
 The Node server serves the built React app and Socket.IO from the same origin. Set `PORT` on the host if needed. In development, Vite proxies Socket.IO WebSocket traffic to the server on port 3001.
-
